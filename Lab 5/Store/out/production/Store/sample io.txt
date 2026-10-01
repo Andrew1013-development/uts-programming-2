@@ -1,0 +1,31 @@
+Choice (s/r/v/c/x): ?
+Menu options
+s = sell
+r = restock
+v = view stock
+c = view cash
+x = exit
+Choice (s/r/v/c/x): v
+200 Sticky tape at $2.99
+Choice (s/r/v/c/x): c
+Cash register: empty
+Choice (s/r/v/c/x): s
+Number: 10
+Choice (s/r/v/c/x): v
+190 Sticky tape at $2.99
+Choice (s/r/v/c/x): c
+Cash register: $29.90
+Choice (s/r/v/c/x): s
+Number: 200
+Not enough stock
+Choice (s/r/v/c/x): r
+Number: 50
+Choice (s/r/v/c/x): v
+240 Sticky tape at $2.99
+Choice (s/r/v/c/x): s
+Number: 200
+Choice (s/r/v/c/x): v
+40 Sticky tape at $2.99
+Choice (s/r/v/c/x): c
+Cash register: $627.90
+Choice (s/r/v/c/x): x

@@ -1,0 +1,52 @@
+// sum pattern
+<type> sum = 0;
+<for each item>
+{
+    sum += <item>;
+}
+
+// output
+System.out.println(“<label>” + <value>);
+
+// input
+System.out.print(“<prompt>”);
+<type> <variable> = <read operation>;
+
+// read loop
+<read pattern>
+while (<value> != <end value>)
+{
+    <use the value>
+    <read pattern>
+}
+
+// array loop
+for (int i = 0; i < <array>.length; i++)
+{
+    <use the item array[i]>
+}
+
+// count without guard
+int count = 0; 
+<for each item>
+    count++;
+
+// count with guard
+int count = 0;
+<for each item>
+    if (<guard>)
+        count++;
+
+// max item
+<type> max = <smallest number>;
+<for each item>
+{
+    if (<item> > max)
+        max = <item>;
+}
+
+// print with fixed precision
+System.out.printf(<prompt>"%.<precision>f\n", <value>);
+
+// print with arbitrary precision
+System.out.print(<prompt> + Double.toString(<value>));

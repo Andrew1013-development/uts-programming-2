@@ -1,0 +1,26 @@
+Initial Savings balance: $1000
+Initial Loan balance: $-10000
+Customer menu (d/w/t/s/x): ?
+Menu options
+d = deposit
+w = withdraw
+t = transfer
+s = show
+x = exit
+Customer menu (d/w/t/s/x): d
+Amount to deposit: $50
+Customer menu (d/w/t/s/x): s
+Savings account has $1,050.00
+Loan account has $-10,000.00
+Customer menu (d/w/t/s/x): t
+Amount to transfer: $100
+Customer menu (d/w/t/s/x): s
+Savings account has $950.00
+Loan account has $-9,900.00
+Customer menu (d/w/t/s/x): w
+Amount to withdraw: $22
+Customer menu (d/w/t/s/x): s
+Savings account has $928.00
+Loan account has $-9,900.00
+Customer menu (d/w/t/s/x): x
+Done
