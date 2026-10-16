@@ -1,0 +1,49 @@
+Choice (s/r/v/c/p/x): v
+Whiteboard Marker - 85 at $1.50
+Whiteboard Eraser - 45 at $5.00
+Black Pen - 100 at $1.50
+Red Pen - 100 at $1.50
+Blue Pen - 100 at $1.50
+Choice (s/r/v/c/p/x): s
+Name: Green Pen
+No such product
+Choice (s/r/v/c/p/x): s
+Name: black PEN
+Selling Black Pen
+Number: 1
+Choice (s/r/v/c/p/x): s
+Name: pen
+Multiple products match:
+Black Pen - 98 at $1.50
+Red Pen - 100 at $1.50
+Blue Pen - 100 at $1.50
+Choice (s/r/v/c/p/x): s
+Name: black
+Selling Black Pen
+Number: 1
+Choice (s/r/v/c/p/x): v
+Whiteboard Marker - 85 at $1.50
+Whiteboard Eraser - 45 at $5.00
+Black Pen - 98 at $1.50
+Red Pen - 100 at $1.50
+Blue Pen - 100 at $1.50
+Choice (s/r/v/c/p/x): r
+Name: whiteboard
+Restocking Whiteboard Marker
+Number: 3
+Restocking Whiteboard Eraser
+Number: 2
+Choice (s/r/v/c/p/x): r
+Name: Green Pen
+Adding new product
+Number: 30
+Price: $2.30
+Choice (s/r/v/c/p/x): v
+Whiteboard Marker - 88 at $1.50
+Whiteboard Eraser - 47 at $5.00
+Black Pen - 98 at $1.50
+Red Pen - 100 at $1.50
+Blue Pen - 100 at $1.50
+Green Pen - 30 at $2.30
+Choice (s/r/v/c/p/x): x
+Done

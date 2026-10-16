@@ -1,0 +1,6 @@
+// lookup pattern
+<for each item in the list>
+    if (<this is the item I want>)
+        return <item>;
+return null;
+

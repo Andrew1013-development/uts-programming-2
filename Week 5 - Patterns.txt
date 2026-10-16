@@ -1,0 +1,22 @@
+// format to 2 decimal places
+@Override
+public String toString() {
+    return <prompt> + formatted(balance);
+}
+private String formatted(double value) {
+    DecimalFormat f = new DecimalFormat(“###,##0.00”);
+    return f.format(value);
+}
+
+// menu pattern - read choice until exit
+char choice;
+while ((choice = readChoice()) != ‘x’)
+
+// menu pattern - execute an action
+switch (choice) {
+    case ‘d’: deposit(); break;
+    case ‘w’: withdraw(); break;
+    case ‘s’: show(); break;
+
+// menu pattern - one procedure for each action
+private void deposit()

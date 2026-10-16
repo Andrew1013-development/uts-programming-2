@@ -1,0 +1,41 @@
+Choice (s/r/v/c/p/x): v
+Whiteboard Marker - 85 at $1.50
+Whiteboard Eraser - 45 at $5.00
+Black Pen - 100 at $1.50
+Red Pen - 100 at $1.50
+Blue Pen - 100 at $1.50
+Choice (s/r/v/c/p/x): s
+Name: Whiteboard Eraser
+Selling Whiteboard Eraser
+Number: 46
+Not enough stock
+Choice (s/r/v/c/p/x): s
+Name: Whiteboard Eraser
+Selling Whiteboard Eraser
+Number: 45
+Choice (s/r/v/c/p/x): s
+Name: Red Pen
+Selling Red Pen
+Number: 100
+Choice (s/r/v/c/p/x): v
+Whiteboard Marker - 85 at $1.50
+Whiteboard Eraser - 0 at $5.00
+Black Pen - 100 at $1.50
+Red Pen - 0 at $1.50
+Blue Pen - 100 at $1.50
+Choice (s/r/v/c/p/x): p
+Choice (s/r/v/c/p/x): r
+Name: Blue Pen
+Restocking Blue Pen
+Number: 5
+Choice (s/r/v/c/p/x): v
+Whiteboard Marker - 85 at $1.50
+Black Pen - 100 at $1.50
+Blue Pen - 105 at $1.50
+Choice (s/r/v/c/p/x): s
+Name: Pie
+No such product
+Choice (s/r/v/c/p/x): c
+Cash: $375.00
+Choice (s/r/v/c/p/x): x
+Done
